@@ -1,0 +1,6 @@
+@CherApi_HostAddress = http://localhost:5055
+
+GET {{CherApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
